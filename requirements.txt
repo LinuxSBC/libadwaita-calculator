@@ -1,0 +1,5 @@
+mpmath==1.2.1
+numpy==1.24.2
+pycairo==1.23.0
+PyGObject==3.42.2
+sympy==1.11.1
